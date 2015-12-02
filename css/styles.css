@@ -44,3 +44,12 @@ a:hover {
 	font-weight: 300;
 	color:#fff;
 }
+
+.img-thumbnail {
+	size: 50px;
+}
+
+
+footer {
+	background-color: #000000;
+}
